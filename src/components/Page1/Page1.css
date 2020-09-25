@@ -1,0 +1,14 @@
+.flex-page {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  
+  .page-container ul li {
+   list-style: none;
+  }
+  
+
+  .tab-wrapper {
+    margin-bottom: 25px;
+  }
